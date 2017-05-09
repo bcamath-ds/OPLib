@@ -79,8 +79,6 @@ number of nodes and depots. For a TOUR file it is the dimension of the correspon
 problem.
 #### COST_LIMIT : \<integer>
   Maximum distance of the total route in a OP.
-#### TSP_SOLUTION : \<integer>
-  TSP solution of the set of nodes.
 #### CAPACITY : \<integer>
   Specifies the truck capacity in a CVRP.
 #### EDGE_WEIGHT_TYPE : \<string>
